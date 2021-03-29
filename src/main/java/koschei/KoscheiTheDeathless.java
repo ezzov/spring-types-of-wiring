@@ -18,5 +18,4 @@ public class KoscheiTheDeathless {
         this.ocean = ocean;
     }
 
-    //chrck
 }
